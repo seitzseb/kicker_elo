@@ -1,0 +1,7 @@
+ID,Team1_Player1,Team1_Player2,Team2_Player1,Team2_Player2,Team1_Score,Team2_Score
+1,Matthias,Nico,Johannes,Daniel,10,1
+2,Nico,Daniel,Johannes,Matthias,10,8
+3,Nico,Johannes,Matthias,Daniel,10,6
+4,Matthias,Johannes,Nico,Daniel,5,10
+5,Sebastian,Johannes,Nico,Daniel,10,8
+6,Peter,Matthias,Johannes,Daniel,10,8

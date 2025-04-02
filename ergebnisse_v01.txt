@@ -1,0 +1,6 @@
+Matthias+Nico=10,Johannes+Daniel=1;
+Nico+Daniel=10,Johannes+Matthias=8;
+Nico+Johannes=10,Matthias+Daniel=6;
+Daniel=5,Johannes=10;
+Nico=10,Johannes=8;
+Nico=10,Daniel=4;
