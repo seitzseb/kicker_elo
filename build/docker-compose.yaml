@@ -1,0 +1,11 @@
+version: '3.8'
+
+services:
+  workspace:
+    build: .
+    container_name: python_workspace
+    volumes:
+      - ..:/workspace
+    environment:
+      - PYTHONUNBUFFERED=1
+    command: sh -c "python workspace/update_elo.py >> workspace/log.txt 2>&1"
